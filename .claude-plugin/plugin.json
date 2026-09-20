@@ -1,0 +1,8 @@
+{
+  "name": "decision-or-default",
+  "description": "A pre-show critic for visual work: is this a decision or the default of its category? Verdict with a score on the client's scale.",
+  "version": "1.0.0",
+  "author": { "name": "Ilya Tretyakov", "url": "https://github.com/MrFreedxm" },
+  "license": "MIT",
+  "keywords": ["design", "review", "critique", "anti-default", "claude-code", "skill"]
+}
